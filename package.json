@@ -1,0 +1,11 @@
+{
+  "name": "airlinebokkingsystem",
+  "version": "1.0.0",
+  "description": "airline management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "'"
+  },
+  "author": "",
+  "license": "ISC"
+}
